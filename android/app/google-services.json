@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "834863370711",
+    "project_id": "motiweights-291b4",
+    "storage_bucket": "motiweights-291b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834863370711:android:cc8bc9f09786a31ae07b92",
+        "android_client_info": {
+          "package_name": "com.motiweights.motiweights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834863370711-tnu3qo6eh4nu7gf1gk7sfetm3f00tt39.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.motiweights.motiweights",
+            "certificate_hash": "55d32bb1ef631e8b796495be099c4eeea9dc6cb7"
+          }
+        },
+        {
+          "client_id": "834863370711-k7dnhjbr353iv2e96bggg8eaprmks0h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFiYEmUUAb_iMvKBMe4DK8RKIH1M33Gxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834863370711-k7dnhjbr353iv2e96bggg8eaprmks0h8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "834863370711-654782g33ps6a8eq0j362lqti1nq90g4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.motiweights"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
